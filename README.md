@@ -32,10 +32,6 @@ You will analyze the dataset by calculating summary statistics, such as total en
    - Optionally, add filters for analyzing data by specific conditions (e.g., date range).
    
 3. **Report Generation**: Implement a function to write the results of your analysis to a report file (e.g., `report.txt`). The report should summarize key findings, such as total entries, most popular occurrences, and any statistics you calculate.
-   
-4. **Optional Features**: If time and motivation allow, implement additional data exploration features, such as:
-   - Filtering the dataset by date or other fields.
-   - Advanced statistical analysis.
 
 ---
 
